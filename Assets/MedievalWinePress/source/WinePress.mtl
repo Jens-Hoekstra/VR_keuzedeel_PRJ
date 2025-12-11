@@ -1,0 +1,23 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl BoltsBracket
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Tubs
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl UpperLowerTwist
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl Platform
+kd 0.8 0.8 0.8
+illum 1
+
+newmtl PressFrame
+kd 0.8 0.8 0.8
+illum 1
+
